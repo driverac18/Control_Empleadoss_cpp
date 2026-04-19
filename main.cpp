@@ -3,7 +3,7 @@
 #include <map>
 #include "MySQLConexion.h"
 #include "EloquentORM.h"
-
+// Al final si pude correr el codigo usando mysql server 5.7 en docker 
 using namespace std;
 
 // Estructura que representa la vista combinada de Empleado + Horario + Turno
